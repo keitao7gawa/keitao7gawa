@@ -33,4 +33,4 @@
 </div>
 
 ### 🏃‍♂️ Languages I Use Most 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitao7gawa&hide=jupyter%20Notebook&layout=compact&hide_title=true&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitao7gawa&hide=jupyter%20Notebook&layout=compact&hide_title=true&theme=dracula)
