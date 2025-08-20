@@ -1,17 +1,18 @@
 ## Hi there 👋
 
 - 😼 I'm a master's student specializing in `computer vision`.
-- 🧠 I'm a researching `machine learning` models for hyperspectral images.
+- 🧠 I'm a researching `machine learning` models for `hyperspectral images`.
 - 🌱 I'm also interested in `web` & `software** development` and `machine learning`.
 - 🚀 I aim to **apply machine learning to real-world problems** and **help solve social challenges**.
 - 📫 How to reach me:  [Twitter - **@keitao7gawa**](https://twitter.com/keitao7gawa)
 
 ## My Commit Rules 🌜
 
-- `add`: Add new feature or files ✨
+- `add`: Add new feature or file ✨
 - `update`: Modify features (not a bug fix) 🔁
-- `refactor`: Code cleanup 🧹
+- `refactor`: Clean up code 🧹
 - `fix`: Bug fixes 🐛
+- `docs`: Update documentation ✒️
 - `remove`: Remove files or features 🗑️
 
 ## Development Highlights 😽
